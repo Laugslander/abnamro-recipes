@@ -15,7 +15,7 @@ When the user selects a recipe the application should display on the same screen
 Every framework and architectural decision needs to be explained and defended on a README file.
 The project is expected to be delivered as a GitHub repository URL or a zip file.
 All these requirements needs to be satisfied:
-- [ ] Application must be production ready;
+- [x] Application must be production ready;
 - [x] UI application must be implemented using JavaScript;
 - [x] UI application must be a single‐page web application (containing the details mentioned above);
 - [x] REST application must be implemented using Java;

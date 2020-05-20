@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  backend:
+    build: './abnamro-recipes-backend'
+
+  frontend:
+    build: './abnamro-recipes-frontend'
+    ports: 
+      - "80:80"
