@@ -1,4 +1,4 @@
-package nl.robinlaugs.abnamrorecipes.domain;
+package nl.robinlaugs.abnamrorecipes.model;
 
 import lombok.Builder;
 import lombok.Data;

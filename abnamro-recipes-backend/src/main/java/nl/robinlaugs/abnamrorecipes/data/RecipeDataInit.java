@@ -2,7 +2,7 @@ package nl.robinlaugs.abnamrorecipes.data;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import nl.robinlaugs.abnamrorecipes.domain.Recipe;
+import nl.robinlaugs.abnamrorecipes.model.Recipe;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

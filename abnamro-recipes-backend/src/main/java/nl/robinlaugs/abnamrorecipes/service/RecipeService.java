@@ -2,7 +2,7 @@ package nl.robinlaugs.abnamrorecipes.service;
 
 import lombok.RequiredArgsConstructor;
 import nl.robinlaugs.abnamrorecipes.data.RecipeRepository;
-import nl.robinlaugs.abnamrorecipes.domain.Recipe;
+import nl.robinlaugs.abnamrorecipes.model.Recipe;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

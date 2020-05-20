@@ -1,7 +1,7 @@
 package nl.robinlaugs.abnamrorecipes.controller;
 
 import lombok.RequiredArgsConstructor;
-import nl.robinlaugs.abnamrorecipes.domain.Recipe;
+import nl.robinlaugs.abnamrorecipes.model.Recipe;
 import nl.robinlaugs.abnamrorecipes.service.RecipeService;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.server.ServerRequest;
